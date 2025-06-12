@@ -18,7 +18,7 @@ generation_config = {
 
 # Set up the model
 model = genai.GenerativeModel(
-  model_name="gemini-1.0-pro",  # Adjust based on the available model
+  model_name="gemini-2.0-flash",  # Adjust based on the available model
   generation_config=generation_config
 )
 
