@@ -26,3 +26,15 @@ cd blogcraft-ai
 
 ### 2. Initial Page
 ![Initial Page: ](https://github.com/mshijin1/AI-PROJECTS/blob/main/Screenshots/Initial_Page.png)
+
+---
+
+### 3. Adding Inputs
+Such as ***Blog Title*** , ***Keywords*** and ***Number of Words***
+![Inputs: ](https://github.com/mshijin1/AI-PROJECTS/blob/main/Screenshots/Add_Inputs.png)
+
+---
+
+### 4. Resultant Output
+Based on provided inputs and parameters, The backend (gemini-flash API) respond with corresponding output (Blog)
+![Resultant Output: ](https://github.com/mshijin1/AI-PROJECTS/blob/main/Screenshots/Result_Output.png)
