@@ -1,1 +1,1 @@
-google_key="AIzaSyCiUXqQ8AKj5duAs068qS5lY4-FL6-jWyA"
+google_key='Your_Api_Key'
