@@ -25,4 +25,4 @@ cd blogcraft-ai
 ---
 
 ### 2. Initial Page
-![Initial Page](C:\Users\ACER\OneDrive\Documents\AI Project\AI_BLOGCRAFT\Screenshots\Add Inputs.png)
+![Initial Page](AI_BLOGCRAFT\Screenshots\Add Inputs.png)
