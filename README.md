@@ -25,4 +25,4 @@ cd blogcraft-ai
 ---
 
 ### 2. Initial Page
-![Initial Page: AI_BLOGCRAFT\Screenshots\Initial_Page.png]
+![Initial Page: ](AI_BLOGCRAFT\Screenshots\Initial_Page.png)
